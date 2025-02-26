@@ -28,6 +28,10 @@ namespace ChatGPTOne
                     {
                         Console.WriteLine("The capital of Portugal is Lisbon.");
                     }
+                    else if (question != null && question.Equals("what is artificial intelligence?", StringComparison.CurrentCultureIgnoreCase))
+                    {
+                        Console.WriteLine("Artificial intelligence is the field of computer science that studies and creates systems that simulate human capabilities.");
+                    }
                     else
                     {
                         Console.WriteLine("Sorry, I didn't recognize your question.");
