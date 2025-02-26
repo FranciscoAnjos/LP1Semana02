@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmoothOperator", "SmoothOpe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariousOperators", "VariousOperators\VariousOperators.csproj", "{265CA2D9-E62E-48E0-A636-F993125E45BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindro", "Cilindro\Cilindro.csproj", "{36501B32-1C44-491D-8A37-67734044A1FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{265CA2D9-E62E-48E0-A636-F993125E45BE}.Release|x64.Build.0 = Release|Any CPU
 		{265CA2D9-E62E-48E0-A636-F993125E45BE}.Release|x86.ActiveCfg = Release|Any CPU
 		{265CA2D9-E62E-48E0-A636-F993125E45BE}.Release|x86.Build.0 = Release|Any CPU
+		{36501B32-1C44-491D-8A37-67734044A1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36501B32-1C44-491D-8A37-67734044A1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36501B32-1C44-491D-8A37-67734044A1FE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{36501B32-1C44-491D-8A37-67734044A1FE}.Debug|x64.Build.0 = Debug|Any CPU
+		{36501B32-1C44-491D-8A37-67734044A1FE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{36501B32-1C44-491D-8A37-67734044A1FE}.Debug|x86.Build.0 = Debug|Any CPU
+		{36501B32-1C44-491D-8A37-67734044A1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36501B32-1C44-491D-8A37-67734044A1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36501B32-1C44-491D-8A37-67734044A1FE}.Release|x64.ActiveCfg = Release|Any CPU
+		{36501B32-1C44-491D-8A37-67734044A1FE}.Release|x64.Build.0 = Release|Any CPU
+		{36501B32-1C44-491D-8A37-67734044A1FE}.Release|x86.ActiveCfg = Release|Any CPU
+		{36501B32-1C44-491D-8A37-67734044A1FE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
