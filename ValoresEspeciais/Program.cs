@@ -37,6 +37,12 @@ namespace ValoresEspeciais
 
             float largeNegativeFloat = float.MinValue * 2; 
             Console.WriteLine($"Resultado do overflow negativo em float (float.MinValue * 2): {largeNegativeFloat}\n");
+            
+            float smallFloat = float.Epsilon;  
+            Console.WriteLine($"Valor de float.Epsilon (o menor valor positivo): {smallFloat}");
+
+            float underflowFloat = smallFloat / 10; 
+            Console.WriteLine($"Resultado de underflow em float (smallFloat / 10): {underflowFloat}\n");
         }
     }
 }
