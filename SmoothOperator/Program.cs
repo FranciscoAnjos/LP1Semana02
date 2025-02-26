@@ -1,0 +1,13 @@
+﻿using System;
+
+namespace SmoothOperator
+{
+    public class Program
+    {
+        private static void Main(string[] args)
+        {
+            Console.Write("Insere número inteiro: ");
+            int input = int.Parse(Console.ReadLine());
+        }
+    }
+}
