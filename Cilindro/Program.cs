@@ -15,6 +15,9 @@ namespace Cilindro
             double volume = Math.PI * Math.Pow(raio, 2) * altura;
             
             double areaSuperficie = 2 * Math.PI * raio * (raio + altura);
+            
+            Console.WriteLine(volume.ToString("F3"));
+            Console.WriteLine(areaSuperficie.ToString("F3"));
         }
     }
 }
