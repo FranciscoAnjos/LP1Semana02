@@ -24,6 +24,10 @@ namespace ChatGPTOne
                     {
                         Console.WriteLine("I'm ChatBot!");
                     }
+                    else if (question != null && question.Equals("what is the capital of portugal?", StringComparison.CurrentCultureIgnoreCase))
+                    {
+                        Console.WriteLine("The capital of Portugal is Lisbon.");
+                    }
                     else
                     {
                         Console.WriteLine("Sorry, I didn't recognize your question.");
