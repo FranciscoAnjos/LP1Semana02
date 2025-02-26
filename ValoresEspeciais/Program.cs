@@ -32,7 +32,11 @@ namespace ValoresEspeciais
             uint overflowUint = maxUint + 1;
             Console.WriteLine($"Resultado do overflow em uint (maxUint + 1): {overflowUint}\n");
             
-            
+            float largePositiveFloat = float.MaxValue * 2;  
+            Console.WriteLine($"Resultado do overflow positivo em float (float.MaxValue * 2): {largePositiveFloat}");
+
+            float largeNegativeFloat = float.MinValue * 2; 
+            Console.WriteLine($"Resultado do overflow negativo em float (float.MinValue * 2): {largeNegativeFloat}\n");
         }
     }
 }
