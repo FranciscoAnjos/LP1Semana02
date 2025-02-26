@@ -32,6 +32,10 @@ namespace ChatGPTOne
                     {
                         Console.WriteLine("Artificial intelligence is the field of computer science that studies and creates systems that simulate human capabilities.");
                     }
+                    else if (question != null && question.Equals("what is the color of the sky?", StringComparison.CurrentCultureIgnoreCase))
+                    {
+                        Console.WriteLine("The color of the sky is blue, but it can vary depending on atmospheric conditions.");
+                    }
                     else
                     {
                         Console.WriteLine("Sorry, I didn't recognize your question.");
