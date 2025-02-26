@@ -21,6 +21,10 @@ namespace ValoresEspeciais
             Console.WriteLine($"float positive infinity: {float.PositiveInfinity}");
             Console.WriteLine($"float negative infinity: {float.NegativeInfinity}");
             Console.WriteLine($"float NaN: {float.NaN}");
+            
+            Console.WriteLine($"double positive infinity: {double.PositiveInfinity}");
+            Console.WriteLine($"double negative infinity: {double.NegativeInfinity}");
+            Console.WriteLine($"double NaN: {double.NaN}");
         }
     }
 }
