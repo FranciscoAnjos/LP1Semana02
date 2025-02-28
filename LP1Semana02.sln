@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakContinue", "BreakConti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPTOne", "ChatGPTOne\ChatGPTOne.csproj", "{8A9F47BD-29A4-4779-93F9-18D17E5667FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectCountdown", "PerfectCountdown\PerfectCountdown.csproj", "{F02D03FF-2534-4286-9A42-545A2E9491D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{8A9F47BD-29A4-4779-93F9-18D17E5667FE}.Release|x64.Build.0 = Release|Any CPU
 		{8A9F47BD-29A4-4779-93F9-18D17E5667FE}.Release|x86.ActiveCfg = Release|Any CPU
 		{8A9F47BD-29A4-4779-93F9-18D17E5667FE}.Release|x86.Build.0 = Release|Any CPU
+		{F02D03FF-2534-4286-9A42-545A2E9491D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02D03FF-2534-4286-9A42-545A2E9491D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02D03FF-2534-4286-9A42-545A2E9491D4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F02D03FF-2534-4286-9A42-545A2E9491D4}.Debug|x64.Build.0 = Debug|Any CPU
+		{F02D03FF-2534-4286-9A42-545A2E9491D4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F02D03FF-2534-4286-9A42-545A2E9491D4}.Debug|x86.Build.0 = Debug|Any CPU
+		{F02D03FF-2534-4286-9A42-545A2E9491D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02D03FF-2534-4286-9A42-545A2E9491D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02D03FF-2534-4286-9A42-545A2E9491D4}.Release|x64.ActiveCfg = Release|Any CPU
+		{F02D03FF-2534-4286-9A42-545A2E9491D4}.Release|x64.Build.0 = Release|Any CPU
+		{F02D03FF-2534-4286-9A42-545A2E9491D4}.Release|x86.ActiveCfg = Release|Any CPU
+		{F02D03FF-2534-4286-9A42-545A2E9491D4}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
